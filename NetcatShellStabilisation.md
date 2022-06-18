@@ -9,7 +9,7 @@ The following three ways are used to stabilise net cat shells:
 Important things to bear in mind before attempting to use this technique:
 
 * This technique is applicable only to Linux boxes.
-* This technique utilizes *Python*, so Python need to be installed on the target machine.
+* This technique utilizes *Python*, so *Python* needs to be installed on the target machine.
 * Some target machines may need the version of Python to be specified. If this is the case, replace python with python2 or python3 as required.
 
 Here are the three steps:
